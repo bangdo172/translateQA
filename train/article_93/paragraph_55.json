@@ -1,0 +1,1 @@
+{"qas": [{"question": "Boolean logic consists of what?", "id": "56fdf73719033b140034ce13", "answers": [{"text": "AND, OR, XOR, and NOT", "answer_start": 40}], "is_impossible": false}], "context": "Logic operations involve Boolean logic: <a0_0>AND, OR, XOR, and NOT<a0_0/>. These can be useful for creating complicated conditional statements and processing boolean logic."}

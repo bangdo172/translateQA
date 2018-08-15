@@ -1,0 +1,1 @@
+{"qas": [{"question": "Dogs can have the same health issues as who?", "id": "56d9a1bbdc89441400fdb658", "answers": [{"text": "humans", "answer_start": 66}], "is_impossible": false}], "context": "Dogs are also vulnerable to some of the same health conditions as <a0_0>humans<a0_0/>, including diabetes, dental and heart disease, epilepsy, cancer, hypothyroidism, and arthritis."}
