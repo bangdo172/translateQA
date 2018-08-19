@@ -16,7 +16,6 @@
 
 """This application demonstrates how to perform basic operations with the
 Google Cloud Translate API
-
 For more information, the documentation at
 https://cloud.google.com/translate/docs.
 """
@@ -57,7 +56,6 @@ def list_languages():
 def list_languages_with_target(target):
     # [START translate_list_language_names]
     """Lists all available languages and localizes them to the target language.
-
     Target must be an ISO 639-1 language code.
     See https://g.co/cloud/translate/v2/translate-reference#supported_languages
     """
@@ -73,9 +71,7 @@ def list_languages_with_target(target):
 def translate_text_with_model(target, text, model=translate.NMT):
     # [START translate_text_with_model]
     """Translates text into the target language.
-
     Make sure your project is whitelisted.
-
     Target must be an ISO 639-1 language code.
     See https://g.co/cloud/translate/v2/translate-reference#supported_languages
     """
@@ -99,7 +95,6 @@ def translate_text_with_model(target, text, model=translate.NMT):
 def translate_text(target, text):
     # [START translate_translate_text]
     """Translates text into the target language.
-
     Target must be an ISO 639-1 language code.
     See https://g.co/cloud/translate/v2/translate-reference#supported_languages
     """
@@ -121,6 +116,7 @@ def translate_text(target, text):
 
 
 if __name__ == '__main__':
+	os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = '/Documents/theProject/MachinelearningCode/ReadingWikiToAnswerOpenQuestion/translateAPI/DrQA-e18c69726d79.json'
     parser = argparse.ArgumentParser(
         description=__doc__,
         formatter_class=argparse.RawDescriptionHelpFormatter)
