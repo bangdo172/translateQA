@@ -1,0 +1,115 @@
+{
+  "context": "Trong hơn một thế kỷ, công dân New Haven đã chiến đấu trong lực lượng dân quân thuộc địa cùng với các lực lượng Anh thường xuyên, như trong cuộc chiến tranh Pháp và Ấn Độ. Khi Cách mạng Mỹ tiếp cận, <a0_0> Tướng David Wooster <a0_0/> và các cư dân có ảnh hưởng khác hy vọng rằng cuộc xung đột với chính phủ ở Anh có thể được giải quyết ngắn chống nổi loạn. Trên <a1_0><a5_0> 23 tháng 4 <a5_0/> 1775 <a1_0/> , vẫn được tổ chức tại New Haven với tên gọi Powder House Day, Công ty thứ hai, <a2_0><a8_0> Thống đốc của Foot Guard <a8_0/><a2_0/> , của New Haven bước vào cuộc đấu tranh chống lại quốc hội Anh cai trị. Dưới <a3_0> Đội trưởng <a6_0> Benedict Arnold <a6_0/><a3_0/> , họ xông vào nhà bột để tự tay và bắt đầu cuộc hành trình ba ngày để <a4_0> Cambridge, Massachusetts <a4_0/> . Các thành viên dân quân New Haven khác đã có mặt để hộ tống George Washington từ nghỉ qua đêm ở New Haven trên đường tới <a7_0> Cambridge <a7_0/> . Báo cáo đương đại, từ cả hai phía, nhận xét về vòng bi quân sự chuyên nghiệp của các tình nguyện viên New Haven, bao gồm <a9_0> đồng phục.",
+  "qas": [
+    {
+      "answers": [
+        {
+          "answer_start": 180,
+          "text": "General David Wooster"
+        }
+      ],
+      "id": "5727423f708984140094db75",
+      "is_impossible": false,
+      "question": "Who was the influential New Haven general that hoped to avoid conflict with the British Parliament as the American Revolution loomed closer?"
+    },
+    {
+      "answers": [
+        {
+          "answer_start": 330,
+          "text": "23 April 1775"
+        }
+      ],
+      "id": "5727423f708984140094db76",
+      "is_impossible": false,
+      "question": "What date is still commemorated by Powder House Day in New Haven?"
+    },
+    {
+      "answers": [
+        {
+          "answer_start": 425,
+          "text": "Governor's Foot Guard"
+        }
+      ],
+      "id": "5727423f708984140094db77",
+      "is_impossible": false,
+      "question": "What was the name of the Second Company in New Haven that was the first to enter the inaugural struggle with the British?"
+    },
+    {
+      "answers": [
+        {
+          "answer_start": 530,
+          "text": "Captain Benedict Arnold"
+        }
+      ],
+      "id": "5727423f708984140094db78",
+      "is_impossible": false,
+      "question": "Under whose leadership did the Governor's Foot Guard break into the powder house to arm themselves?"
+    },
+    {
+      "answers": [
+        {
+          "answer_start": 637,
+          "text": "Cambridge, Massachusetts"
+        }
+      ],
+      "id": "5727423f708984140094db79",
+      "is_impossible": false,
+      "question": "Toward what area did the New Haven militia march for three days following the powder house incident?"
+    },
+    {
+      "answers": [
+        {
+          "answer_start": 330,
+          "text": "23 April"
+        }
+      ],
+      "id": "572943173f37b319004781c9",
+      "is_impossible": false,
+      "question": "Power House Day is celebrated on what day in New Haven?"
+    },
+    {
+      "answers": [
+        {
+          "answer_start": 538,
+          "text": "Benedict Arnold"
+        }
+      ],
+      "id": "572943173f37b319004781ca",
+      "is_impossible": false,
+      "question": "What is the name of infamous historical person who played an important role on Power House Day? "
+    },
+    {
+      "answers": [
+        {
+          "answer_start": 787,
+          "text": "Cambridge"
+        }
+      ],
+      "id": "572943173f37b319004781cb",
+      "is_impossible": false,
+      "question": "Where was George Washington planning to go after staying in New Haven?"
+    },
+    {
+      "answers": [
+        {
+          "answer_start": 425,
+          "text": "Governor's Foot Guard"
+        }
+      ],
+      "id": "572943173f37b319004781cc",
+      "is_impossible": false,
+      "question": "What is the name of the New Haven Militia that fought on during Powder House Day?"
+    },
+    {
+      "answers": [
+        {
+          "answer_start": 914,
+          "text": "uniforms."
+        }
+      ],
+      "id": "572943173f37b319004781cd",
+      "is_impossible": false,
+      "question": "Although the militia were mainly made of volunteers what item distinguish them from other militia companies?"
+    }
+  ]
+}
