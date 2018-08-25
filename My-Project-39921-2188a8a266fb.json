@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "eighth-pursuit-214310",
+  "private_key_id": "2188a8a266fb4dfc04946ee83005a85678c3deba",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC6MyQ6uEiKCSmr\nLQoPgPDb0b9abkSK70fzV1jb+hKam7+PF2TDAbuvU8kEivZbw+cMFkFKkfTQmz4u\nriuOg0QdNwcorYIdZBlH9+mLB+cp1Lf6ONE1n7fwSZvBuuXGpMYP8O6NIWB96V3t\n4rxngpjR+ZTMZ636T81g61eYuosDM/+qsvqNmxYBB840gWzTYTxYWiMJQ+v4KPMB\nbiBnCKMmXHLdMgIH9paNzyBsP+IIwpQone6WSCjnl7O4w+/f6t3SUx/7dSPg2kfZ\nHwUpOwKDXwIv1dWO0J1STdOCFk9BgrrTkIEOyCcuh9yHUzvLbK2h12dGvPcle7vb\n26JsqnEtAgMBAAECggEACld806YYoVIQ9mjx/hpzRkJIFoW5WN4haOqZDN6+2cd8\nxD3QYuRdwEcvCwmM1Vv0IT+7MKEar9tvgLg7wxaXWegMhb3dVDSTEuQ6HHa76B7g\neQ1e0VOlq7rq47+1s2rDdW80ULJh4ZxskyHcxQMD6eWq1g+MIjL8fT2VB+6UegD5\nDnMrPcae3wY9NHZ1f6XzGPxf/9D2wNqwu9Y0ClYQ+UcsUDLZ9YcwmcOT4TvUmndE\nTVFfUw6bXalgqPBIMNT0n0yPkQ/YSXkbJr2VWJojp3cpZUV7c7D8+rsZRpHhtq8I\n+QsOMPd30CrW8aV1vFpx1Tn21YA6MeYp0GUnqQfwIQKBgQDnzS3Q4LdU2O0/bCio\njxOxYOqo6jP5b6HQTyMMLA/9NqbCzwhWlojmXWaMSubck8m3EUhvd2XSx2oT0/wy\nk8Q9JOhZzmp3x0VKP3nPv0IAJIeLMn8v4CIT3Z58H+gDR+8LI7iQcZnEqTBkFmyu\nIFrK+z4/TOnRJuUkwpZsX50+swKBgQDNo0V3QLt6/hvyvfYqzMgBMfyhNhAMSWk0\nPebwLwH68NMdQEvWvU2/4DhbhzSaHO2ykicIp8AgX/w7BMjJCNXJc2HaCRMEV1/H\nCP7xdmMMYpUDVlBoRbgN+gZEsvqDouDKsB9y3OyAXcU/TJUDsc8PH0xaFpXXo2px\ngN4+nj2AnwKBgQDCiFbi7TPuaP7yMvsMOsb0HbnReHuV4jGSeFeZZ4EjqDHbW5RL\n1pmdetUM9+83PnASytZXdYRmmCRV75m/eHNAPTEh7TE8xGdKIGtCBeiF5iI6l25V\n52ux8FOJJ922oy/h0WCbGDtL6BFMbeVXXJ/VqXRb+1hexp2XdBZ5bOSyMQKBgGPn\nAVWJRkvfbfaFITXz3OrvvPsZB7zgYVL3C93+CGlAXGAmn3GI8F/ab6bPzdddXIFX\njc0fqjBQUXrevSkluK8w9gX2SJ3gUPCiRzFJwZ7/ucMwSMoPrPZlVGxFw3z2QV1X\nKUAlYmSOqcgxzWdJF/4Rx4cw18U2Z/0SjWZAfEKjAoGAV4uvQRZJqIsLI9zfsdWx\nauJQDlb7FSLS9S3Dei4Fb79slgK/yfjlWzCg1UbeTiCv1sRv2vKG1ZmQpDT5KfjV\nub04kojDPNJJO+P677Wm8D3v09a6aIzAdlkmPQkkUzYIxZ7g5vJkCsFkKS5841Ur\nyvSVZ7wUp6j6mpP4X1mik64=\n-----END PRIVATE KEY-----\n",
+  "client_email": "gicungduoc@eighth-pursuit-214310.iam.gserviceaccount.com",
+  "client_id": "110332529491286758827",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/gicungduoc%40eighth-pursuit-214310.iam.gserviceaccount.com"
+}
