@@ -1,0 +1,104 @@
+{
+  "context": "Các dự án lớn bao gồm việc xây dựng một cơ sở mới cho trung tâm Gateway Community College, và một tòa nhà 32 tầng, 500 căn hộ / bán lẻ được gọi là <a4_0> 360 State Street. <a4_0/> Các <a0_0> 360 State Street <a0_0/> dự án hiện đang bị chiếm đóng và là tòa nhà dân cư lớn nhất ở Connecticut. Một boathouse mới và <a5_0> dock được lên kế hoạch <a5_0/> cho <a2_0> Cảng New Haven <a2_0/> , và <a7_0> công viên tuyến tính <a1_0> Đường mòn kênh Farmington <a7_0/><a1_0/> được thiết lập để mở rộng vào trung tâm thành phố New Haven trong năm tới. Ngoài ra, nền tảng và đoạn đường nối làm việc để mở rộng I-95 để tạo ra một bến cảng mới cho New Haven, với <a8_0> một cây cầu dẫn <a8_0/> để thay thế Cầu Q thời kỳ năm 1950, đã bắt đầu. Thành phố vẫn hy vọng tái phát triển trang web của <a3_0> Đại hý trường New Haven <a3_0/> , đã bị phá hủy vào <a6_0> năm 2007.<a6_0/>",
+  "qas": [
+    {
+      "answers": [
+        {
+          "answer_start": 189,
+          "text": "360 State Street"
+        }
+      ],
+      "id": "572759bddd62a815002e9b8c",
+      "is_impossible": false,
+      "question": "Dự án đa dụng ở New Haven là tòa nhà dân cư lớn nhất ở Connecticut?"
+    },
+    {
+      "answers": [
+        {
+          "answer_start": 364,
+          "text": "Farmington Canal Trail"
+        }
+      ],
+      "id": "572759bddd62a815002e9b8d",
+      "is_impossible": false,
+      "question": "Những gì công viên được dự đoán sẽ mở rộng đến trung tâm thành phố New Haven?"
+    },
+    {
+      "answers": [
+        {
+          "answer_start": 326,
+          "text": "New Haven Harbor"
+        }
+      ],
+      "id": "572759bddd62a815002e9b8e",
+      "is_impossible": false,
+      "question": "Đối với khu vực nào là nhà thuyền mới và bến tàu đang được lên kế hoạch?"
+    },
+    {
+      "answers": [
+        {
+          "answer_start": 674,
+          "text": "New Haven Coliseum"
+        }
+      ],
+      "id": "572759bddd62a815002e9b8f",
+      "is_impossible": false,
+      "question": "Những gì là mốc thành phố phá hủy trong năm 2007 mà thành phố cuối cùng muốn tái phát triển?"
+    },
+    {
+      "answers": [
+        {
+          "answer_start": 167,
+          "text": "360 State Street."
+        }
+      ],
+      "id": "57295e513f37b319004782bb",
+      "is_impossible": false,
+      "question": "Tên dự án xây dựng đang diễn ra ở trung tâm thành phố Gateway Community College là gì?"
+    },
+    {
+      "answers": [
+        {
+          "answer_start": 306,
+          "text": "dock is planned"
+        }
+      ],
+      "id": "57295e513f37b319004782bc",
+      "is_impossible": false,
+      "question": "Cảng New Haven đang nhận được loại điều chỉnh nào?"
+    },
+    {
+      "answers": [
+        {
+          "answer_start": 674,
+          "text": "New Haven Coliseum"
+        }
+      ],
+      "id": "57295e513f37b319004782bd",
+      "is_impossible": false,
+      "question": "Thành phố New Haven muốn tái phát triển / xây dựng loại cấu trúc nào?"
+    },
+    {
+      "answers": [
+        {
+          "answer_start": 352,
+          "text": "linear park Farmington Canal Trail"
+        }
+      ],
+      "id": "57295e513f37b319004782be",
+      "is_impossible": false,
+      "question": "Về cơ sở hạ tầng, những gì đang được phát triển trong khu vực trung tâm thành phố?"
+    },
+    {
+      "answers": [
+        {
+          "answer_start": 557,
+          "text": "an extradosed bridge"
+        }
+      ],
+      "id": "57295e513f37b319004782bf",
+      "is_impossible": false,
+      "question": "Loại cầu nào đang thay thế Cầu Q cũ?"
+    }
+  ]
+}
